@@ -1,0 +1,9 @@
+{
+    "clang-format.executable": "/home/zjj/.vscode/extensions/xaver.clang-format-1.5.0",
+    "editor.formatOnSave": true,
+    // 使绝对路径也能得以提示
+    "path-intellisense.absolutePathToWorkspace": false,
+    "fileheader.Author": "zjj",
+    "fileheader.LastModifiedBy": "zjj",
+    "fileheader.tpl": "/*\r\n * @Author: {author} \r\n * @Date: {createTime} \r\n * @Last Modified by:   {lastModifiedBy} \r\n * @Last Modified time: {updateTime} \r\n * @Description:  /\r\n*/\r\n"
+}
