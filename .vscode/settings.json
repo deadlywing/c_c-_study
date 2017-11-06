@@ -1,5 +1,4 @@
 {
-    "clang-format.executable": "/home/zjj/.vscode/extensions/xaver.clang-format-1.6.0",
     "editor.formatOnSave": true,
     // 使绝对路径也能得以提示
     "path-intellisense.absolutePathToWorkspace": false,
