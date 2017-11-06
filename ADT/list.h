@@ -2,13 +2,15 @@
  * @Author: zjj 
  * @Date: 2017-11-06 19:03:55 
  * @Last Modified by: zjj
- * @Last Modified time: 2017-11-06 19:29:16
+ * @Last Modified time: 2017-11-06 20:44:57
  * @Description: header file for a simple list type /
 */
 
 #ifndef LIST_H_
 #define LIST_H_
+
 #include <stdbool.h>
+#include <string.h>
 
 #define TSIZE 45 // size of array to hold title
 struct film
